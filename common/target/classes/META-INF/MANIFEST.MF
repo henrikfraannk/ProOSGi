@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1430783482393
+Build-Jdk: 1.8.0_45
+Built-By: Henrik
+Bundle-Description: Cross platform game library for N≥4 platforms.
+Bundle-ManifestVersion: 2
+Bundle-Name: Common
+Bundle-SymbolicName: dk.sdu.mmmi.cbse.common
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: dk.sdu.mmmi.cbse.common.data;version="1.0.0.SNAPSHOT",dk
+ .sdu.mmmi.cbse.common.services;uses:="dk.sdu.mmmi.cbse.common.data";ver
+ sion="1.0.0.SNAPSHOT",dk.sdu.mmmi.cbse.common.utils;uses:="com.decoupli
+ nk,dk.sdu.mmmi.cbse.common.data,org.openide.util";version="1.0.0.SNAPSH
+ OT"
+Import-Package: com.decouplink;version="[1.0,2)",org.openide.util
+Tool: Bnd-1.50.0

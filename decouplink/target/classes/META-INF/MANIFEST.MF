@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1430783481955
+Build-Jdk: 1.8.0_45
+Built-By: Henrik
+Bundle-Description: Cross platform game library for N≥4 platforms.
+Bundle-ManifestVersion: 2
+Bundle-Name: Decouplink
+Bundle-SymbolicName: com.decouplink
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.decouplink;uses:="org.openide.util";version="1.0.0.S
+ NAPSHOT"
+Import-Package: com.google.common.collect;version="[13.0,14)",org.openid
+ e.util,org.openide.util.lookup
+Tool: Bnd-1.50.0

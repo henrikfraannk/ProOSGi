@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1430783484081
+Build-Jdk: 1.8.0_45
+Built-By: Henrik
+Bundle-Activator: dk.sdu.mmmi.cbse.expiration.Activator
+Bundle-Description: Cross platform game library for N≥4 platforms.
+Bundle-ManifestVersion: 2
+Bundle-Name: Expiration
+Bundle-SymbolicName: dk.sdu.mmmi.cbse.Expiration
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Import-Package: com.decouplink;version="[1.0,2)",dk.sdu.mmmi.cbse.common
+ .data;version="[1.0,2)",dk.sdu.mmmi.cbse.common.services;version="[1.0,
+ 2)",org.osgi.framework;version="[1.6,2)"
+Tool: Bnd-1.50.0

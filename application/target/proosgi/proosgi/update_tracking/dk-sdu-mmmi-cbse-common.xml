@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="dk.sdu.mmmi.cbse.common">
+    <module_version install_time="1430783487619" last="true" origin="installer" specification_version="1.0.0.SNAPSHOT">
+        <file crc="1027714998" name="config/Modules/dk-sdu-mmmi-cbse-common.xml"/>
+        <file crc="2954705681" name="modules/dk-sdu-mmmi-cbse-common.jar"/>
+    </module_version>
+</module>

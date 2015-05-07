@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.mmmi.cbse.ProOSGi.branding">
+    <module_version install_time="1430783483187" last="true" origin="installer" specification_version="1.0">
+        <file crc="2238030027" name="config/Modules/dk-sdu-mmmi-cbse-ProOSGi-branding.xml"/>
+        <file crc="3348963047" name="core/locale/core_proosgi.jar"/>
+        <file crc="3537541724" name="modules/dk-sdu-mmmi-cbse-ProOSGi-branding.jar"/>
+        <file crc="750357064" name="modules/locale/org-netbeans-core-windows_proosgi.jar"/>
+        <file crc="2070290777" name="modules/locale/org-netbeans-core_proosgi.jar"/>
+    </module_version>
+</module>

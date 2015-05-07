@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="com.decouplink">
+    <module_version install_time="1430783487666" last="true" origin="installer" specification_version="1.0.0.SNAPSHOT">
+        <file crc="2314990795" name="config/Modules/com-decouplink.xml"/>
+        <file crc="727672074" name="modules/com-decouplink.jar"/>
+    </module_version>
+</module>

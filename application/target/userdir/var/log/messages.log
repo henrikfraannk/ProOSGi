@@ -1,0 +1,55 @@
+-------------------------------------------------------------------------------
+>Log Session: Tuesday, May 5, 2015 1:51:41 AM CEST
+>System Info: 
+  Product Version         = ProOSGi 201403101706
+  Operating System        = Windows 8 version 6.2 running on amd64
+  Java; VM; Vendor        = 1.8.0_45; Java HotSpot(TM) 64-Bit Server VM 25.45-b02; Oracle Corporation
+  Runtime                 = Java(TM) SE Runtime Environment 1.8.0_45-b14
+  Java Home               = C:\Program Files\Java\jdk1.8.0_45\jre
+  System Locale; Encoding = da_DK (proosgi); Cp1252
+  Home Directory          = C:\Users\Henrik
+  Current Directory       = C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi
+  User Directory          = C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\userdir
+  Cache Directory         = C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\userdir\var\cache
+  Installation            = C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\bin
+                            C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\etc
+                            C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\extra
+                            C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform
+                            C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\proosgi
+                            C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform
+  Boot & Ext. Classpath   = C:\Program Files\Java\jdk1.8.0_45\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_45\jre\classes;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext\zipfs.jar
+  Application Classpath   = C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\boot.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\org-openide-modules.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\org-openide-util-lookup.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\org-openide-util.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\locale\boot_ja.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\locale\boot_pt_BR.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\locale\boot_ru.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\locale\boot_zh_CN.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\locale\org-openide-modules_ja.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\locale\org-openide-modules_pt_BR.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\locale\org-openide-modules_ru.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\locale\org-openide-modules_zh_CN.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\locale\org-openide-util-lookup_ja.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\locale\org-openide-util-lookup_pt_BR.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\locale\org-openide-util-lookup_ru.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\locale\org-openide-util-lookup_zh_CN.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\locale\org-openide-util_ja.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\locale\org-openide-util_pt_BR.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\locale\org-openide-util_ru.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\lib\locale\org-openide-util_zh_CN.jar;C:\Program Files\Java\jdk1.8.0_45\lib\dt.jar;C:\Program Files\Java\jdk1.8.0_45\lib\tools.jar
+  Startup Classpath       = C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\core\core.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\core\org-openide-filesystems.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\core\locale\core_ja.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\core\locale\core_pt_BR.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\core\locale\core_ru.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\core\locale\core_zh_CN.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\core\locale\org-openide-filesystems_ja.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\core\locale\org-openide-filesystems_pt_BR.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\core\locale\org-openide-filesystems_ru.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\platform\core\locale\org-openide-filesystems_zh_CN.jar;C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\proosgi\core\locale\core_proosgi.jar
+-------------------------------------------------------------------------------
+INFO [org.netbeans.core.startup.NbEvents]: Module patch or custom extension: C:\Users\Henrik\Documents\NetBeansProjects\ProOSGi\application\target\proosgi\..\..\..\Core\target\classes
+INFO [org.netbeans.modules.netbinox]: Install area set to file:/C:/Users/Henrik/Documents/NetBeansProjects/ProOSGi/application/target/proosgi/
+WARNING [java.util.prefs]: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	org.openide.util.lookup [8.24.1 201403101706]
+	org.openide.util [8.37.1 201403101706]
+	org.openide.modules [7.42.1 201403101706]
+	org.netbeans.api.annotations.common/1 [1.23.1 201403101706]
+	org.openide.filesystems [8.10.1 201403101706]
+	org.openide.awt [7.61.1 201403101706]
+	org.netbeans.api.progress/1 [1.37.1 201403101706]
+	org.openide.dialogs [7.36.1 201403101706]
+	org.openide.nodes [7.38.1 201403101706]
+	org.openide.windows [6.70.1 201403101706]
+	org.netbeans.bootstrap/1 [2.67.1 201403101706]
+	org.netbeans.core.startup/1 [1.53.1 201403101706]
+	org.netbeans.libs.osgi [1.17.1 201403101706]
+	org.netbeans.core.netigso [1.26.1 201403101706]
+	org.netbeans.modules.netbinox [1.34.1 201403101706]
+	dk.sdu.mmmi.cbse.player [1.0.0 1.0.0.SNAPSHOT]
+	dk.sdu.mmmi.cbse.dynupdater [1.0.0 1.0.0.SNAPSHOT]
+	dk.sdu.mmmi.cbse.common [1.0.0 1.0.0.SNAPSHOT]
+	dk.sdu.mmmi.cbse.ProOSGi.branding [1.0 1.0-20150504 201505042351]
+	dk.sdu.mmmi.cbse.Move [1.0.0 1.0.0.SNAPSHOT]
+	dk.sdu.mmmi.cbse.Expiration [1.0.0 1.0.0.SNAPSHOT]
+	dk.sdu.mmmi.cbse.Enemy [1.0.0 1.0.0.SNAPSHOT]
+	com.decouplink [1.0.0 1.0.0.SNAPSHOT]
+	dk.sdu.mmmi.cbse.Core [1.0 1.0-20150504 201505042351]
+	dk.sdu.mmmi.cbse.Assets [1.0 1.0-20150504 201505042351]
+	com.google.guava [13.0.1 13.0.1]
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.apache.felix.scr@1.8.2 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.8.0.v20120529-1548 started
